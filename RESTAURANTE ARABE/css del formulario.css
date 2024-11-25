@@ -1,0 +1,55 @@
+input{
+    width: 100%;
+    padding: 12px;
+    margin: 10px;
+    border-style: dotted;
+    font-family: 'Century Gothic';
+    
+}
+
+body{
+    background-color:rgb(59, 47, 33);
+    background-position: center;
+    justify-content: center;
+}
+
+label{
+    font-family: 'Century Gothic';
+    font-size: 150%;
+    color: beige;
+
+}
+select{
+    font-family: Helvetica;
+font-size: 80%;
+}
+
+div.center{
+    display: center;
+    justify-content: center;
+}
+
+font{
+    color: blanchedalmond;
+    font-family: 'Engravers MT';
+}
+
+h3{
+    color: rgb(238, 197, 137);
+    font-family: 'Blackadder ITC';
+    font-size: 230%;
+}
+
+h2{
+    color: rgb(238, 197, 137);
+    font-family: 'Harrington';
+    font-size: 230%;
+}
+
+
+select{
+    color: rgb(61, 50, 32);
+    font-family: 'Engravers MT';
+    border-bottom-color: rgb(46, 38, 28);
+}
+

@@ -1,0 +1,14 @@
+.carouselExampleIndicators.carusel.slide{
+
+    
+    max-width: 735px; 
+    max-height: 490px;
+    margin: 0 auto; 
+    background-position: center;
+
+}
+
+body{
+    background-color: black;
+}
+  

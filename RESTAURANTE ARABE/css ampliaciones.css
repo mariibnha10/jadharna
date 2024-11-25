@@ -1,0 +1,37 @@
+body{
+    background-color:rgb(59, 47, 33);
+    background-position: center;
+    justify-content: center;
+}
+
+
+font{
+    color: rgb(130, 98, 59);
+    font-family: 'Engravers MT';
+}
+
+h2{
+    color: rgb(201, 173, 134);
+    font-family: 'Harrington';
+    font-size: 230%;
+
+}
+
+h3{
+    color: rgb(238, 197, 137);
+    font-family: 'Engravers MT';
+    font-size: 230%;
+}
+
+p{
+    color:beige;
+    font-size: 150%;
+    font-family: 'Century Gothic';
+
+}
+
+img{
+    border-color: rgb(255, 187, 0);
+    border-style: ridge;
+    justify-content: center;
+}
